@@ -104,25 +104,39 @@ We address the challenge of creating 3D assets for household articulated objects
 
 ### 8. ArtiLatent: Realistic Articulated 3D Object Generation via Structured Latents
 
+ArtiLatent, SIGGRAPH Asia 2025
+
 **stay tuned**
 
 ### 9.PhysX-3D: Physical-Grounded 3D Asset Generation
 
-**stay tuned**[CVPR 2026](https://cvpr.thecvf.com/Conferences/2026)
+PhysX-3D, CVPR 2025
+
+**stay tuned**
 
 ### 10.PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image
 
-**stay tuned**[NeurIPS 2025 (Spotlight)](https://neurips.cc/)
+PhysX-Anything, NeurIPS 2025 (Spotlight)
+
+**stay tuned**
 
 ### 11. ArtLLM: Generating Articulated Assets via 3D LLM
 
-**stay tuned[CVPR 2026](https://cvpr.thecvf.com/Conferences/2026)**
+ArtLLM, CVPR 2026
 
-### 12. PAct: Part-Decomposed Single-View Articulated Object Generation
+**stay tuned**
 
-**stay tuned ** Part-center **latest SOTA**
+### 12. PAct: Part-Decomposed Single-View Articulated Object Generation 
 
-Liu Q, Yao X, Zhang S, et al. PAct: Part-Decomposed Single-View Articulated Object Generation[J]. arXiv preprint arXiv:2602.14965, 2026.
+PAct, arXiv:2602.14965, 2026. https://arxiv.org/abs/2602.14965
+
+Part-center & Two stage generation
+
+**latest SOTA**
+
+**stay tuned **
+
+
 
 
 
