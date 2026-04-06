@@ -64,6 +64,7 @@ We propose Neural 3D Articulation Prior (NAP), the first 3D deep generative mode
 [📄 Paper](https://arxiv.org/abs/2312.09570) | [🌐 Project Page](https://3dlg-hcvc.github.io/cage/) | [💻 Code](https://github.com/3dlg-hcvc/cage)
 
 - Dataset: PartNet-Mobility
+- retrieval-based method
 
 <details span>
 <summary><b>Abstract</b></summary>
@@ -96,6 +97,7 @@ Articulated 3D object generation is fundamental for creating realistic, function
 - Level: Category-Level
 - Dataset: PartNet-Mobility
 - Input: Single RGB Image
+- Retrieval-based method
 <details span>
 <summary><b>Abstract</b></summary>
 <br>
@@ -106,23 +108,41 @@ We address the challenge of creating 3D assets for household articulated objects
 
 ArtiLatent, SIGGRAPH Asia 2025
 
-**stay tuned**
+[📄 Paper](https://arxiv.org/abs/2510.21432 ) |  [💻 Code](https://github.com/chenhonghua/ArtiLatent)
+
+- Code: 未开源
+- Dataset: PartNet-Mobility
+- Input: Single RGB Image
+- Non-Retrieval
 
 ### 9.PhysX-3D: Physical-Grounded 3D Asset Generation
 
 PhysX-3D, CVPR 2025
 
-**stay tuned**
+[📄 Paper](https://arxiv.org/abs/2507.12465 ) |  [💻 Code](https://github.com/ziangcao0312/PhysX-3D)
+
+- Code: 开源
+- Non-Retrieval
 
 ### 10.PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image
 
 PhysX-Anything, NeurIPS 2025 (Spotlight)
 
-**stay tuned**
+[📄 Paper](https://arxiv.org/abs/2511.13648) |  [💻 Code](https://github.com/ziangcao0312/PhysX-Anything)
+
+- Code: 开源
+- Non-Retrieval
 
 ### 11. ArtLLM: Generating Articulated Assets via 3D LLM
 
 ArtLLM, CVPR 2026
+
+[📄 Paper](https://arxiv.org/abs/2603.01142) |  [💻 Code]()
+
+- Code: 未开源
+- Dataset: PartNet-Mobility and augmentation
+- Input: Single RGB Image
+- Non-Retrieval
 
 **stay tuned**
 
