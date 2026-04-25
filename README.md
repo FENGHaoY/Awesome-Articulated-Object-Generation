@@ -148,13 +148,18 @@ ArtLLM, CVPR 2026
 
 ### 12. PAct: Part-Decomposed Single-View Articulated Object Generation 
 
-PAct, arXiv:2602.14965, 2026. https://arxiv.org/abs/2602.14965
+PAct, arXiv:2602.14965, 2026. 
+
+[📄 Paper](https://arxiv.org/abs/2602.14965) |  [💻 Code](https://github.com/PAct-project/PAct/tree/main)
 
 Part-center & Two stage generation
 
 **latest SOTA**
 
-**stay tuned **
+- Code: 开源一部分
+- Dataset: PartNet-Mobility
+- Input: Single RGB Image
+- Non-Retrieval
 
 
 
